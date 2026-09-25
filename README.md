@@ -118,9 +118,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=808080"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hindhuja-143&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=808080"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hindhuja-712&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hindhuja-143&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
 
 </div>
 
