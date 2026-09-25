@@ -9,12 +9,15 @@
 ### `Aspiring Software Developer`
 
 <p>
-<b>Building</b> • <b>Learning</b> • <b>Solving</b> • <b>Exploring</b>
+<b>Building</b> &nbsp;•&nbsp;
+<b>Learning</b> &nbsp;•&nbsp;
+<b>Solving</b> &nbsp;•&nbsp;
+<b>Exploring</b>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies;Turning+Ideas+Into+Code"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=hindhuja-712&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
@@ -26,6 +29,7 @@
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
 ### `WHO AM I?`
@@ -46,7 +50,9 @@
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" valign="top">
+
+<div align="center">
 
 ### ⚡ PROFILE
 
@@ -54,27 +60,30 @@
 
 **SOFTWARE DEVELOPMENT**
 
-`Java` `DSA`
+`Java` • `DSA`
 
-<br>
+<br><br>
 
 **BUILDING WITH**
 
-`Web` `Flutter`
+`Web` • `Flutter`
 
-<br>
+<br><br>
 
 **EXPLORING**
 
-`AI` `Modern Tech`
+`AI` • `Modern Tech`
 
-<br>
+<br><br>
 
 **MINDSET**
 
 `Learn` → `Build` → `Improve`
 
+</div>
+
 </td>
+
 </tr>
 </table>
 
@@ -86,99 +95,56 @@
 
 ### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js&theme=dark"/>
 
 <br><br>
 
 ### `DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=html,css,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,flutter&theme=dark"/>
 
 <br><br>
 
 ### `DATA • SERVICES • TOOLS`
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,vercel&theme=dark"/>
 
 </div>
 
 ---
 
-# 🗺️ Technology Map
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
+# ⚙️ Tech Stack
 
 <div align="center">
 
-### 💻
+### `CORE`
 
-## Programming
+<img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Dart-181717?style=for-the-badge&logo=dart&logoColor=0175C2"/>
+<img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-`Java`
+<br><br>
 
-`C`
+### `BUILD`
 
-`C++`
+<img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Flutter-181717?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
 
-`Dart`
+<br><br>
 
-`JavaScript`
+### `DATA • CLOUD • TOOLS`
 
-</div>
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 🌐
-
-## Development
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-`Flutter`
-
-`Dart`
+<img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Vercel-181717?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 
 </div>
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 🧰
-
-## Tools & Services
-
-`MySQL`
-
-`Firebase`
-
-`Git`
-
-`GitHub`
-
-`VS Code`
-
-`Vercel`
-
-</div>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -186,71 +152,52 @@
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/Java-Problem%20Solving-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-Learning-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-Exploring-7C3AED?style=for-the-badge"/>
 
-<td width="50%" valign="top">
+<br><br>
 
-### 🧠 PROBLEM SOLVING
-
-<br>
-
-🔹 `Java`
-
-🔹 `Data Structures`
-
-🔹 `Algorithms`
-
-🔹 `Competitive Programming`
-
-<br>
-
-**Solving problems. Understanding patterns. Improving logic.**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 DEVELOPMENT
-
-<br>
-
-🔹 `Web Development`
-
-🔹 `Flutter`
-
-🔹 `Mobile Applications`
-
-🔹 `AI-powered Development`
-
-<br>
-
-**Learning technologies by building.**
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Web%20Development-Building-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-Mobile-0175C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile%20Applications-Exploring-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI--powered%20Development-Exploring-EC4899?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🏅 Milestones
+# 🏆 Milestones
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HackUsElevate'26-Finalist-8B5CF6?style=for-the-badge"/>
+<br>
 
-<img src="https://img.shields.io/badge/NHIDE'26-Finalist-6366F1?style=for-the-badge"/>
+### ✦ HackUsElevate'26
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Shaastra'26-Analog%20Circuit%20Design%20Challenge-7C3AED?style=for-the-badge"/>
+`FINALIST`
 
 <br><br>
 
-<img src="https://img.shields.io/badge/India%20Innovates-Participant-2563EB?style=for-the-badge"/>
+### ✦ NHIDE'26
+
+`FINALIST`
+
+<br><br>
+
+### ✦ Shaastra'26
+
+`ANALOG CIRCUIT DESIGN CHALLENGE`
+
+`FINALIST`
+
+<br><br>
+
+### ✦ India Innovates
+
+`PARTICIPANT`
+
+<br><br>
 
 </div>
 
@@ -260,69 +207,35 @@
 
 <div align="center">
 
-<table>
-<tr>
+`💡 EXPLORE`
 
-<td align="center" width="25%">
+  →  
 
-# 💡
+`🧠 LEARN`
 
-### EXPLORE
+  →  
 
-Discover new technologies
+`🛠️ BUILD`
 
-</td>
+  →  
 
-<td align="center" width="5%">
+`🚀 GROW`
 
-### →
+<br><br>
 
-</td>
+**Discover new technologies**
 
-<td align="center" width="25%">
+  →  
 
-# 🧠
+**Strengthen technical skills**
 
-### LEARN
+  →  
 
-Strengthen technical skills
+**Turn ideas into applications**
 
-</td>
+  →  
 
-<td align="center" width="5%">
-
-### →
-
-</td>
-
-<td align="center" width="25%">
-
-# 🛠️
-
-### BUILD
-
-Turn ideas into applications
-
-</td>
-
-<td align="center" width="5%">
-
-### →
-
-</td>
-
-<td align="center" width="25%">
-
-# 🚀
-
-### GROW
-
-Improve through experience
-
-</td>
-
-</tr>
-</table>
+**Improve through experience**
 
 </div>
 
@@ -332,29 +245,9 @@ Improve through experience
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=808080"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=808080"/>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hindhuja-712&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
-
-</div>
-
----
-
-# 🧠 DSA • Problem Solving
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Focus-Data%20Structures-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Practice-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<br><br>
-
-**Arrays** • **Strings** • **HashMap** • **HashSet** • **Stack** • **Algorithms**
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hindhuja-712&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
 
 </div>
 
