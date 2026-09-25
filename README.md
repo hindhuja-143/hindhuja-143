@@ -1,27 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hindhuja%20G.&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:5B21B6,100:00C6FF&height=220&section=header&text=Hindhuja%20G.&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+
+<br>
 
 # 👋 Hi, I'm Hindhuja
 
 ### `Aspiring Software Developer`
 
 <p>
-Building • Learning • Solving • Exploring
+<b>Building</b> • <b>Learning</b> • <b>Solving</b> • <b>Exploring</b>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies;Turning+Ideas+Into+Code"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=hindhuja-712&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<table align="center">
-<tr>
-
-<td width="60%" valign="top">
-
 ## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### `WHO AM I?`
 
 🎓 **B.E. Electronics & Communication Engineering**
 
@@ -33,11 +40,13 @@ Building • Learning • Solving • Exploring
 
 🚀 Currently expanding my skills across **Java, DSA, Web, Flutter and AI-powered tools**.
 
+<br>
+
+> **Learn → Build → Break → Fix → Improve**
+
 </td>
 
-<td width="40%" valign="top">
-
-<div align="center">
+<td width="35%" align="center">
 
 ### ⚡ PROFILE
 
@@ -45,19 +54,19 @@ Building • Learning • Solving • Exploring
 
 **SOFTWARE DEVELOPMENT**
 
-`Java` • `DSA`
+`Java` `DSA`
 
 <br>
 
 **BUILDING WITH**
 
-`Web` • `Flutter`
+`Web` `Flutter`
 
 <br>
 
 **EXPLORING**
 
-`AI` • `Modern Tech`
+`AI` `Modern Tech`
 
 <br>
 
@@ -65,49 +74,48 @@ Building • Learning • Solving • Exploring
 
 `Learn` → `Build` → `Improve`
 
-</div>
-
 </td>
-
 </tr>
 </table>
 
 ---
 
-<div align="center">
+# 🧩 Developer Toolkit
 
-## 🧩 Developer Toolkit
+<div align="center">
 
 ### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js&theme=dark" />
 
 <br><br>
 
 ### `DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=html,css,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,flutter&theme=dark" />
 
 <br><br>
 
 ### `DATA • SERVICES • TOOLS`
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## 🛠️ Technology Map
+# 🗺️ Technology Map
 
-<table align="center">
+<table>
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td width="33%" valign="top">
 
-### 💻 Programming
+<div align="center">
 
-<br>
+### 💻
+
+## Programming
 
 `Java`
 
@@ -119,13 +127,17 @@ Building • Learning • Solving • Exploring
 
 `JavaScript`
 
+</div>
+
 </td>
 
-<td align="center" width="33%" valign="top">
+<td width="33%" valign="top">
 
-### 🌐 Development
+<div align="center">
 
-<br>
+### 🌐
+
+## Development
 
 `HTML`
 
@@ -137,13 +149,17 @@ Building • Learning • Solving • Exploring
 
 `Dart`
 
+</div>
+
 </td>
 
-<td align="center" width="33%" valign="top">
+<td width="33%" valign="top">
 
-### 🧰 Tools & Services
+<div align="center">
 
-<br>
+### 🧰
+
+## Tools & Services
 
 `MySQL`
 
@@ -157,6 +173,8 @@ Building • Learning • Solving • Exploring
 
 `Vercel`
 
+</div>
+
 </td>
 
 </tr>
@@ -164,67 +182,75 @@ Building • Learning • Solving • Exploring
 
 ---
 
-## 🧭 Currently Exploring
+# 🧭 Currently Exploring
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🧠 PROBLEM SOLVING
 
-`Java`
+<br>
 
-`Data Structures`
+🔹 `Java`
 
-`Algorithms`
+🔹 `Data Structures`
 
-`Competitive Programming`
+🔹 `Algorithms`
 
-</div>
+🔹 `Competitive Programming`
+
+<br>
+
+**Solving problems. Understanding patterns. Improving logic.**
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🚀 DEVELOPMENT
 
-`Web Development`
+<br>
 
-`Flutter`
+🔹 `Web Development`
 
-`Mobile Applications`
+🔹 `Flutter`
 
-`AI-powered Development`
+🔹 `Mobile Applications`
 
-</div>
+🔹 `AI-powered Development`
+
+<br>
+
+**Learning technologies by building.**
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
+
+# 🏅 Milestones
 
 <div align="center">
 
-## 🏅 Milestones
+<img src="https://img.shields.io/badge/HackUsElevate'26-Finalist-8B5CF6?style=for-the-badge"/>
 
-`HackUsElevate'26 — Finalist`
-  •  
-`NHIDE'26 — Finalist`
+<img src="https://img.shields.io/badge/NHIDE'26-Finalist-6366F1?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-`Shaastra'26 — Analog Circuit Design Challenge — Finalist`
+<img src="https://img.shields.io/badge/Shaastra'26-Analog%20Circuit%20Design%20Challenge-7C3AED?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-`India Innovates — Participant`
+<img src="https://img.shields.io/badge/India%20Innovates-Participant-2563EB?style=for-the-badge"/>
 
 </div>
 
@@ -239,63 +265,59 @@ Building • Learning • Solving • Exploring
 
 <td align="center" width="25%">
 
-### 💡
+# 💡
 
-**EXPLORE**
+### EXPLORE
 
-Discover new
-technologies
-
-</td>
-
-<td align="center">
-
-➜
+Discover new technologies
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="5%">
 
-### 🧠
-
-**LEARN**
-
-Strengthen
-technical skills
-
-</td>
-
-<td align="center">
-
-➜
+### →
 
 </td>
 
 <td align="center" width="25%">
 
-### 🛠️
+# 🧠
 
-**BUILD**
+### LEARN
 
-Turn ideas
-into applications
+Strengthen technical skills
 
 </td>
 
-<td align="center">
+<td align="center" width="5%">
 
-➜
+### →
 
 </td>
 
 <td align="center" width="25%">
 
-### 🚀
+# 🛠️
 
-**GROW**
+### BUILD
 
-Improve through
-experience
+Turn ideas into applications
+
+</td>
+
+<td align="center" width="5%">
+
+### →
+
+</td>
+
+<td align="center" width="25%">
+
+# 🚀
+
+### GROW
+
+Improve through experience
 
 </td>
 
@@ -306,22 +328,56 @@ experience
 
 ---
 
+# 📊 GitHub Journey
+
 <div align="center">
 
-## 🌐 Connect
+<img src="https://github-readme-stats.vercel.app/api?username=hindhuja-712&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=808080"/>
 
-<a href="https://github.com/hindhuja-143">
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hindhuja-712&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
+
+</div>
+
+---
+
+# 🧠 DSA • Problem Solving
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Focus-Data%20Structures-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Practice-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<br><br>
+
+**Arrays** • **Strings** • **HashMap** • **HashSet** • **Stack** • **Algorithms**
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/hindhuja-712">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:itsdreamer712@gmail.com">
+<a href="mailto:hindhuja0712@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-`Always learning. Always building.`
+### `Always learning. Always building.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:5B21B6,100:00C6FF&height=120&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
