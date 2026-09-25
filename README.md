@@ -21,23 +21,29 @@
 
 <td width="65%" valign="top">
 
-🎓 **B.E. Electronics & Communication Engineering**
-🏫 **Bannari Amman Institute of Technology**
-💻 Aspiring **Software Developer** passionate about building practical applications.
-🧠 Interested in **problem solving, software development and modern technologies**.
-🚀 Currently expanding my skills across **Java, DSA, Web, Flutter and AI-powered tools**.
+🎓 **B.E. Electronics & Communication Engineering** student at **Bannari Amman Institute of Technology**.
+
+💻 Exploring **Software Development** with a strong interest in building useful and practical solutions.
+
+🧠 Currently strengthening my skills in **Java, DSA, Web Development and Flutter**.
+
+🚀 Learning by **solving problems, building projects and experimenting with new technologies**.
+
+🌱 Always curious to learn, improve and turn ideas into something meaningful.
 
 </td>
 
 <td width="35%" align="center">
 
-### ⚡ PROFILE
+### ⚡ CURRENT FOCUS
 
 `Java` • `DSA`
 
-`Web` • `Flutter`
+`Flutter` • `Web`
 
-`AI` • `Modern Tech`
+`Firebase` • `AI`
+
+<br>
 
 **Learn → Build → Improve**
 
@@ -76,7 +82,7 @@
 
 <br>
 
-`Problem Solving`  •  `Web Development`  •  `Mobile Development`  •  `AI-powered Development`
+`Problem Solving` • `Web Development` • `Mobile Development` • `AI-powered Development`
 
 </div>
 
@@ -86,9 +92,12 @@
 
 <div align="center">
 
-`HackElevate'26 — Finalist`  • 
-`NHIDE'26 — Finalist`  • 
-`Shaastra'26 — Finalist`  • 
+`HackUsElevate'26 — Finalist`
+  •  
+`NHIDE'26 — Finalist`
+  •  
+`Shaastra'26 — Finalist`
+  •  
 `India Innovates — Participant`
 
 </div>
