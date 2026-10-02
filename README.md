@@ -1,20 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:5B21B6,100:00C6FF&height=190&section=header&text=Hindhuja%20G.&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B0B,45:3B0F0F,75:740001,100:C9A227&height=200&section=header&text=Hindhuja%20G.&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=F5E6C8"/>
 
-# 👋 Hi, I'm Hindhuja
+# 🪄 Hi, I'm Hindhuja
 
-### `Aspiring Software Developer`
+### 🏰 `Aspiring Software Developer`
 
-`Building` • `Learning` • `Solving` • `Exploring`
+**✦ Building ✦ Learning ✦ Solving ✦ Exploring ✦**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=900&color=C9A227&center=true&vCenter=true&width=720&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies"/>
+
+<br>
+
+`⚡ I solemnly swear that I am up to no good.`
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 🏰 The Wizard Behind The Code
 
 <table>
 <tr>
@@ -35,17 +39,27 @@
 
 <td width="35%" align="center">
 
-### ⚡ CURRENT FOCUS
+### 🎩 CURRENT FOCUS
 
-`Java` • `DSA`
+🪄 `Java`
 
-`Flutter` • `Web`
+⚔️ `DSA`
 
-`Firebase` • `AI`
+📱 `Flutter`
+
+🌐 `Web`
+
+🔥 `Firebase`
+
+🤖 `AI`
 
 <br>
 
 **Learn → Build → Improve**
+
+<br>
+
+`⚡ Mischief Managed`
 
 </td>
 
@@ -54,19 +68,23 @@
 
 ---
 
-## 🧩 Tech Stack
+# 🗺️ Marauder's Map — Tech Stack
 
 <div align="center">
 
-### Languages
+### ⚔️ Languages
 
 <img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js&theme=dark"/>
 
-### Development
+<br><br>
+
+### 🏰 Development
 
 <img src="https://skillicons.dev/icons?i=html,css,flutter&theme=dark"/>
 
-### Tools & Services
+<br><br>
+
+### 🧪 Tools & Services
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,vercel&theme=dark"/>
 
@@ -74,59 +92,91 @@
 
 ---
 
-## 🚀 Currently Exploring
+# 🔮 The Room of Requirement
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase&theme=dark"/>
 
+<br><br>
+
+`Problem Solving`
+  ✦  
+`Web Development`
+  ✦  
+`Mobile Development`
+  ✦  
+`AI-powered Development`
+
+<br><br>
+
+🪄 *Learning new spells, one technology at a time.*
+
+</div>
+
+---
+
+# 🏆 Wizarding Achievements
+
+<div align="center">
+
+🏅 **Hack Elevate'26 — Finalist**
+
+✦
+
+🏅 **NHIDE'26 — Finalist**
+
+✦
+
+🏅 **Shaastra'26 — Finalist**
+
+✦
+
+🏅 **India Innovates — Participant**
+
+</div>
+
+---
+
+# 🧭 The Path to Mastery
+
+<div align="center">
+
+### 🪄 Explore
+
+↓
+
+### 📖 Learn
+
+↓
+
+### ⚗️ Build
+
+↓
+
+### 🦉 Grow
+
 <br>
 
-`Problem Solving` • `Web Development` • `Mobile Development` • `AI-powered Development`
+`Every great wizard started as a beginner.`
 
 </div>
 
 ---
 
-## 🏆 Milestones
+# 📜 Hogwarts Progress Journal
 
 <div align="center">
 
-`HackUsElevate'26 — Finalist`
-  •  
-`NHIDE'26 — Finalist`
-  •  
-`Shaastra'26 — Finalist`
-  •  
-`India Innovates — Participant`
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hindhuja-143&show_icons=true&hide_border=true&theme=transparent&title_color=C9A227&icon_color=C9A227&text_color=D6C7A1"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hindhuja-143&hide_border=true&theme=transparent&ring=C9A227&fire=C9A227&currStreakLabel=C9A227"/>
 
 </div>
 
 ---
 
-## 🎯 Growth Path
-
-<div align="center">
-
-**💡 Explore** → **🧠 Learn** → **🛠️ Build** → **🚀 Grow**
-
-</div>
-
----
-
-## 📊 GitHub Journey
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hindhuja-143&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=808080"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hindhuja-143&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
-
-</div>
-
----
-
-## 🌐 Connect
+# 🦉 Send an Owl
 
 <div align="center">
 
@@ -135,13 +185,19 @@
 </a>
 
 <a href="mailto:itsdreamer712@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-740001?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+### ✨ `Always learning. Always building.`
 
 <br>
 
-`Always learning. Always building.`
+`⚡ Mischief Managed.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:5B21B6,100:00C6FF&height=90&section=footer"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B0B,45:3B0F0F,75:740001,100:C9A227&height=100&section=footer"/>
 
 </div>
