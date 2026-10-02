@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B0B,45:3B0F0F,75:740001,100:C9A227&height=200&section=header&text=Hindhuja%20G.&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=F5E6C8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F0F,50:4A0E0E,100:C9A227&height=190&section=header&text=Hindhuja%20G.&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=F5E6C8"/>
 
-# 🪄 Hi, I'm Hindhuja
+# ⚡ Hi, I'm Hindhuja
 
-### 🏰 `Aspiring Software Developer`
+### 🪄 `Aspiring Software Developer`
 
-**✦ Building ✦ Learning ✦ Solving ✦ Exploring ✦**
+`Building` • `Learning` • `Solving` • `Exploring`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=900&color=C9A227&center=true&vCenter=true&width=720&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&pause=900&color=C9A227&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Web+Development;Flutter+%7C+Mobile+Development;Exploring+AI+%26+Modern+Technologies"/>
 
-<br>
-
-`⚡ I solemnly swear that I am up to no good.`
+✨ *"It does not do to dwell on dreams and forget to live."* ✨
 
 </div>
 
 ---
 
-# 🏰 The Wizard Behind The Code
+## 🪄 About Me
 
 <table>
 <tr>
@@ -39,27 +37,19 @@
 
 <td width="35%" align="center">
 
-### 🎩 CURRENT FOCUS
+### 🧙 CURRENT FOCUS
 
-🪄 `Java`
+`Java` • `DSA`
 
-⚔️ `DSA`
+`Flutter` • `Web`
 
-📱 `Flutter`
-
-🌐 `Web`
-
-🔥 `Firebase`
-
-🤖 `AI`
+`Firebase` • `AI`
 
 <br>
 
 **Learn → Build → Improve**
 
-<br>
-
-`⚡ Mischief Managed`
+🪄 *Mischief Managed.*
 
 </td>
 
@@ -68,7 +58,7 @@
 
 ---
 
-# 🗺️ Marauder's Map — Tech Stack
+## 🧙‍♀️ Tech Stack
 
 <div align="center">
 
@@ -76,13 +66,9 @@
 
 <img src="https://skillicons.dev/icons?i=java,c,cpp,dart,js&theme=dark"/>
 
-<br><br>
-
 ### 🏰 Development
 
 <img src="https://skillicons.dev/icons?i=html,css,flutter&theme=dark"/>
-
-<br><br>
 
 ### 🧪 Tools & Services
 
@@ -92,21 +78,15 @@
 
 ---
 
-# 🔮 The Room of Requirement
+## 🔮 Currently Exploring
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase&theme=dark"/>
 
-<br><br>
+<br>
 
-`Problem Solving`
-  ✦  
-`Web Development`
-  ✦  
-`Mobile Development`
-  ✦  
-`AI-powered Development`
+`Problem Solving` • `Web Development` • `Mobile Development` • `AI-powered Development`
 
 <br><br>
 
@@ -116,45 +96,27 @@
 
 ---
 
-# 🏆 Wizarding Achievements
+## 🏆 Milestones
 
 <div align="center">
 
-🏅 **Hack Elevate'26 — Finalist**
-
-✦
-
-🏅 **NHIDE'26 — Finalist**
-
-✦
-
-🏅 **Shaastra'26 — Finalist**
-
-✦
-
-🏅 **India Innovates — Participant**
+🏅 `HackUsElevate'26 — Finalist`
+  •  
+🏅 `NHIDE'26 — Finalist`
+  •  
+🏅 `Shaastra'26 — Finalist`
+  •  
+🏅 `India Innovates — Participant`
 
 </div>
 
 ---
 
-# 🧭 The Path to Mastery
+## 🗺️ Growth Path
 
 <div align="center">
 
-### 🪄 Explore
-
-↓
-
-### 📖 Learn
-
-↓
-
-### ⚗️ Build
-
-↓
-
-### 🦉 Grow
+**🪄 Explore** → **📖 Learn** → **⚗️ Build** → **🦉 Grow**
 
 <br>
 
@@ -164,7 +126,7 @@
 
 ---
 
-# 📜 Hogwarts Progress Journal
+## 📊 GitHub Journey
 
 <div align="center">
 
@@ -176,7 +138,7 @@
 
 ---
 
-# 🦉 Send an Owl
+## 🦉 Connect
 
 <div align="center">
 
@@ -184,20 +146,18 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:itsdreamer712@gmail.com">
+<a href="mailto:[itsdreamer712@gmail.com](mailto:itsdreamer712@gmail.com)">
 <img src="https://img.shields.io/badge/Gmail-740001?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-### ✨ `Always learning. Always building.`
+`Always learning. Always building.`
 
 <br>
 
-`⚡ Mischief Managed.`
+🪄 **Mischief Managed.**
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B0B,45:3B0F0F,75:740001,100:C9A227&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F0F,50:4A0E0E,100:C9A227&height=90&section=footer"/>
 
 </div>
